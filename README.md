@@ -18,6 +18,9 @@
 
   ##Usage
   To use this application, make sure that all dependencies are installed by opening the integrated terminal and using "npm i". then use "node .\index.js" to initiate the program. Finally, answer each question about your program and then a README.md will be generated.
+  
+  ##Walkthrough Video
+  https://drive.google.com/file/d/10Ep1Wpvx3wXX2NNRQDIkgYKJN5nIjndT/view?usp=sharing
 
   ##Credits
   Collaborators: N/A
